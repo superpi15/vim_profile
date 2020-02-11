@@ -1,5 +1,4 @@
-set nu
-set ai
-set cursorline
-set tabstop=4
-filetype indent on
+set autoindent
+hi Normal guibg=NONE ctermbg=NONE
+syntax on
+colorschem ron
